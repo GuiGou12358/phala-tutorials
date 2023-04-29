@@ -1,10 +1,10 @@
-# Query a subquery index
-
 # Phala tutorial 2
-Tutorials to write Phat Contracts in Rust and Pink!
+How to query an subquery/subsquid index
 
-Installation: 
-Tutorial 2: 
+Installation: https://polkaverse.com/11178/technical-guide-install-cargo-contract-ink-v4-37994 
+
+Tutorial 2: https://polkaverse.com/11178/2-how-to-query-an-subquery-subsquid-index-38215
+
 
 ## Build the contract
 
@@ -13,6 +13,7 @@ Setup the environment for Ink! contract compilation, then run
 ```bash
 cd ./query_indexer
 cargo contract build
+```
 
 ## Test
 
