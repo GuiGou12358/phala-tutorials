@@ -1,6 +1,6 @@
 # Phala tutorial 2
 
-How to query a subquery/subsquid index
+How to query a subquery/subsquid index  
 https://polkaverse.com/11178/2-how-to-query-an-subquery-subsquid-index-38215
 
 ## Build the contract
